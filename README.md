@@ -36,6 +36,5 @@ Bank-Management-System/
 
 
 👨‍💻 Author
-
-Your Name Sachin Chavan
+Your Name:Sachin Chavan
 Python Developer | Data Analyst
